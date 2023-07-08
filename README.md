@@ -16,8 +16,8 @@ Mermaid 能绘制哪些图？
 
 [快速上手 Mermaid](https://snowdreams1006.github.io/write/mermaid-flow-chart.html)  
 
-
-GPT 通用提示：
+**使用步骤**  
+一、GPT 通用提示：  
 角色：你是 xxx 方面的专家   
 任务1：xxx 场景，整个流程经历了哪些环节，给出具体的交互流程  
 任务2：用 Mermaid 语法再写一遍上面的流程  
@@ -27,4 +27,4 @@ GPT 通用提示：
 用 Mermaid 语法再写一遍上面的流程  
 
 
-打开 diagrams.net（https://app.diagrams.net/） 将 Mermaid 语法流程图代码复制到 <高级>，生成流程图即可。
+二、打开 diagrams.net（https://app.diagrams.net/） 将 Mermaid 语法流程图代码复制到 <高级>，生成流程图即可。
